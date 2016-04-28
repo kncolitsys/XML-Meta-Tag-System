@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Meta>
+	<!-- Root Folder, Put any pages in your webroot in here -->
+	<ROOT>
+		<index.cfm>
+			<Title>Title...</Title>
+			<Description>Description...</Description>
+			<Keywords>keyword,keyword,keyword</Keywords>
+		</index.cfm>
+		<another-page.cfm>
+			<Title>Title...</Title>
+			<Description>Description...</Description>
+			<Keywords>keyword,keyword,keyword</Keywords>
+		</another-page.cfm>	
+	</ROOT>
+	<!-- You can add subfolders in like so: -->
+	<SUBFOLDER>
+		<privacy.cfm>
+			<Title>Title...</Title>
+			<Description>Description...</Description>
+			<Keywords>keyword,keyword,keyword</Keywords>
+		</privacy.cfm>
+		<another-page.cfm>
+			<Title>Title...</Title>
+			<Description>Description...</Description>
+			<Keywords>keyword,keyword,keyword</Keywords>
+		</another-page.cfm>
+	</SUBFOLDER>
+	<SUBFOLDER2>
+		<privacy.cfm>
+			<Title>Title...</Title>
+			<Description>Description...</Description>
+			<Keywords>keyword,keyword,keyword</Keywords>
+		</privacy.cfm>
+		<another-page.cfm>
+			<Title>Title...</Title>
+			<Description>Description...</Description>
+			<Keywords>keyword,keyword,keyword</Keywords>
+		</another-page.cfm>
+	</SUBFOLDER2>	
+</Meta>
